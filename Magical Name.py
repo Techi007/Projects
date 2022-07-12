@@ -1,5 +1,5 @@
 #All credits go to Himanshu Bhandari
-#he wrote this code in cpp, i rewrote it in python
+#he wrote this code in cpp, another rewrote it in Python. I am making some changes to it to satisfy my own porposes.
 
 ime = input("Enter your name: \n\n")
 
