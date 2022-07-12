@@ -94,8 +94,7 @@ class Converter():
         self.celsius_result['text'] = ''
 
 
-    #I could not resolve some impotant bugs in the program :(, for example when I tried just to convert one or two of them. But this is what I have, I could not spend
-    #more time on it. It is 11:00 pm. I must study for the exam tomorrow.
+    #I could not resolve some impotant bugs in the program :(, for example when I tried just to convert one or two of them. But I'm still solving it.
 
 drawing = Converter()
 drawing.window.mainloop()
