@@ -40,6 +40,3 @@ def runDrawing(width=300, height=300):
     print("Bye!")
 
 runDrawing(1000, 500)
-
-
-#... In the end, I could not figure out the correct use of the coordinates on the window to draw the windows and maybe some clouds :(((
