@@ -5,7 +5,7 @@
 
 class Card:
     
-    def __init__(self, cardHolder, balance): #string, string, integer
+    def __init__(self, cardHolder, balance): #string, integer
         self.cardHolder = cardHolder
         self.balance = balance
 
