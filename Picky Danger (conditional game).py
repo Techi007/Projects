@@ -23,7 +23,9 @@ if path_way == "left":
           You fought them fiercely and defeated them, even thought they left you shalow cuts all over your body''')
     damage_taken = warrior - 133
     print(f"Your HP is {damage_taken}")
-else:
+      
+if path_way == "right":
     print("You went right and fought the fierce orcs")
     damage_taken = warrior - 178
+
     print(f"Your HP is {damage_taken}")
